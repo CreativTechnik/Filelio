@@ -1,5 +1,6 @@
 .DS_Store
 *.icloud
+* 2
 * 2.*
 .build*/
 build/
