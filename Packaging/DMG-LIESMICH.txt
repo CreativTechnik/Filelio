@@ -1,0 +1,16 @@
+Filelio 1.0.0 – Installation
+Autor: CreativTechnik
+
+1. Ziehe „Filelio.app“ auf „Programme“.
+2. Starte Filelio aus dem Programme-Ordner.
+3. Wähle die Ordner aus, die Filelio verwalten darf.
+4. Aktiviere optional die Finder-Schaltfläche unter „Systemeinstellungen >
+   Allgemein > Anmeldeobjekte & Erweiterungen > Finder > Filelio Finder“.
+
+Filelio arbeitet lokal und löscht keine Dateien automatisch.
+
+Diese lokale Ausgabe ist ad-hoc signiert und nicht von Apple notarisiert. Falls
+macOS den ersten Start blockiert, kann die vertrauenswürdig erhaltene Datei unter
+„Systemeinstellungen > Datenschutz & Sicherheit“ mit „Dennoch öffnen“ freigegeben
+werden. Für eine warnungsfreie Weitergabe sind Developer-ID-Signierung und
+Apple-Notarisierung erforderlich.

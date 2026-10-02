@@ -1,0 +1,8 @@
+.DS_Store
+*.icloud
+* 2.*
+.build*/
+build/
+dist/
+node_modules/
+CLAUDE.md
